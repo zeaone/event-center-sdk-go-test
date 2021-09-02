@@ -1,4 +1,4 @@
-module cloud.inspur.com/event-center-sdk-go
+module github.com/zeaone/event-center-sdk-go-test
 
 go 1.14
 
