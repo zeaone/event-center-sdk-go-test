@@ -6,7 +6,7 @@ import (
 
 	 srchttp "net/http"
 
-	"cloud.inspur.com/event-center-sdk-go/event"
+	"github.com/zeaone/event-center-sdk-go-test/event"
 	cloudevents "github.com/cloudevents/sdk-go/v2"
 	"github.com/cloudevents/sdk-go/v2/binding"
 	"github.com/cloudevents/sdk-go/v2/protocol/http"
